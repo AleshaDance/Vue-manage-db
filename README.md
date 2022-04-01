@@ -1,2 +1,2 @@
 # Vue-manage-db
-Vue.js + Electron-builder + Equalize.js (mssql) + PrimeVue
+Vue.js + Electron-builder + Sequalize.js (mssql) + PrimeVue
